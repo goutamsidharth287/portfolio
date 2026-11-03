@@ -4,8 +4,8 @@ import Navbar from './components/Navbar'
 import SignalDesk from './components/SignalDesk'
 
 const LINKEDIN = 'https://www.linkedin.com/in/siddhartha-goutam-ba7578376'
-const GITHUB = '#' // TODO: add your GitHub URL
-const EMAIL = 'mailto:you@example.com' // TODO: add your email
+const GITHUB =  'https://github.com/goutamsidharth287'
+const EMAIL = 'goutamsidharth287@gmail.com' // TODO: add your email
 const badges = ['React', 'TypeScript', 'JavaScript', 'CSS', 'Figma']
 const skills: Record<string, string[]> = {
   Frontend: ['React.js', 'TypeScript', 'JavaScript', 'HTML5', 'CSS3', 'Tailwind CSS'],
